@@ -1,0 +1,22 @@
+{
+  "name": "FunctionComponents",
+  "version": "0.1.0",
+  "summary": "A short description of FunctionComponents.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SmallaXQ/FunctionComponents",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SmallaXQ": "908433036@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/SmallaXQ/FunctionComponents.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FunctionComponents/Classes/**/*"
+}

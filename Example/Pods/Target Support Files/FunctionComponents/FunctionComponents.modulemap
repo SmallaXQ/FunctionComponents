@@ -1,0 +1,6 @@
+framework module FunctionComponents {
+  umbrella header "FunctionComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}
