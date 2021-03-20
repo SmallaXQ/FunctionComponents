@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FunctionComponents_Example' do
+  pod 'FunctionComponents', :path => '../'
+
+  target 'FunctionComponents_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
